@@ -4,7 +4,7 @@ Welcome to the comprehensive repository of core Artificial Intelligence algorith
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 1. [Game-Playing & Search Tree Algorithms (C)](#1-game-playing--search-tree-algorithms-c)
 2. [AI Travel Planner: Knowledge-Based Expert System](#2-ai-travel-planner-knowledge-based-expert-system)
 3. [Knowledge Graphs Architecture & Tooling](#3-knowledge-graphs-architecture--tooling)
